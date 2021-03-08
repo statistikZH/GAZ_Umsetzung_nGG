@@ -1,54 +1,23 @@
 ![](https://opendata.swiss/content/uploads/2016/02/kt_zh.png)
 
-# Projekt Name
+# Visualisierung zur «Umsetzung neues Gemeindegesetz» 
 
-*Read this in other languages: [English](README_EN.md)*
 
 ## Projektbeschreibung
 
-Beschreibe hier das Projekt: Einführung, Methodik, Ergebnisse, empfohlene Zitierform etc. <br>
-Bedenke, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? Ein schönes Beispiel ist hier zu finden: https://github.com/tamedia-ddj/SUV_Analyse_Schweiz
+Nach Inkrafttreten des neuen Gemeindegesetzes am 1. Januar 2018 haben die Zürcher Gemeinden vier Jahre Zeit, ihre Gemeindeordnungen an das neue Recht anzupassen. Hier finden Sie eine Übersicht, welche Gemeinden schon eine neue Gemeindeordnung haben und welche noch daran arbeiten.
 
-## Voraussetzungen
+https://www.zh.ch/de/politik-staat/gemeinden/gemeindeorganisation.html
 
-z.B.: 
+Der aktuelle Stand soll visualisiert werden und einfach durch das GAZ aktualisiert werden können. 
 
-R version 3.5.0 (2018-04-23) <br>
-RStudio version 1.1.453 <br>
-Deppendencies: <br>
-|package name | version number |
-| ------------- | ------------- | 
-|dplyr     |    0.8.3 |
-|sf     |    0.8-1 |
-
-
-R Code um die obigen Informationen zu erhalten: 
-
-```R 
-# R version
-print(version[['version.string']])
-# R Studio Version
-require(rstudioapi)
-RStudioversionInfo <- versionInfo()
-print(paste("RStudio version", RStudioversionInfo$version))
-# list names of loaded libraries with version number
-print(subset(data.frame(sessioninfo::package_info()), attached==TRUE, c(package, loadedversion)),  row.names = FALSE)
-```
-
-## Mitwirkende
-
-Vielen Dank an folgende Personen die mitgewirkt haben: 
-
-[@kalakaru](https://github.com/kalakaru)
-[@mmznrSTAT](https://github.com/mmznrSTAT)
 
 ## Kontakt
 
-Vorname Nachname  <br>
-vorname.nachname@statistik.ji.zh.ch <br>
-Telefonnummer <br>
+Gemeindeamt Abteilung Gemeinderecht  <br>
+gemeinderecht.gaz@ji.zh.ch <br>
++41 43 259 83 30 <br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
 ## Lizenzen
 
