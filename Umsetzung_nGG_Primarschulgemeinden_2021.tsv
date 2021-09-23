@@ -6,8 +6,8 @@ C031	Sekundarschulgemeinde Affoltern am Albis-Aeugst	nicht anwendbar
 K031	Sekundarschulgemeinde Andelfingen (Andelfingen, Kleinandelfingen, Adlikon, Henggart, Humlikon, Thalheim)	nicht anwendbar
 K020	Primarschulgemeinde Andelfingen	Revision ausstehend
 L010	Primarschulgemeinde Bachenbülach	Anpassung erfolgt
-M010	Primarschulgemeinde Bachs	vorgeprüft
-K040	Primarschulgemeinde Benken	vorgeprüft
+M010	Primarschulgemeinde Bachs	Anpassung erfolgt
+K040	Primarschulgemeinde Benken	Anpassung erfolgt
 B020	Primarschulgemeinde Birmensdorf	Anpassung erfolgt
 B031	Sekundarschulgemeinde Birmensdorf-Aesch	nicht anwendbar
 C061	Sekundarschulgemeinde Bonstetten (Bonstetten, Stallikon, Wettswil a.A.)	nicht anwendbar
@@ -17,33 +17,33 @@ K070	Primarschulgemeinde Dachsen	Anpassung erfolgt
 I110	Primarschulgemeinde Dägerlen	vorgeprüft
 M050	Primarschulgemeinde Dänikon-Hüttikon	vorgeprüft
 M071	Sekundarschulgemeinde Dielsdorf (Dielsdorf, Regensberg, Steinmaur)	nicht anwendbar
-M060	Primarschulgemeinde Dielsdorf	vorgeprüft
+M060	Primarschulgemeinde Dielsdorf	Anpassung erfolgt
 L052	Vereinigte Schulgemeinde Dietlikon	nicht anwendbar
 G021	Sekundarschulgemeinde Dübendorf-Schwerzenbach	nicht anwendbar
 L062	Vereinitge Schulgemeinde Eglisau	nicht anwendbar
 I151	Sekundarschulgemeinde Elgg	nicht anwendbar
-I143	Primarschulgemeinde Elgg	vorgeprüft
+I143	Primarschulgemeinde Elgg	Anpassung erfolgt
 I160	Primarschulgemeinde Ellikon an der Thur	vorgeprüft
 I343	Vereinitge Schulgemeinde Elsau-Schlatt	nicht anwendbar
 L081	Sekundarschulgemeinde Embrach (Embrach, Oberembrach, Lufigen)	nicht anwendbar
 G042	Vereinitge Schulgemeinde Fällanden	nicht anwendbar
 K302	Vereinitge Schulgemeinde  Flaachtal	nicht anwendbar
-K120	Primarschulgemeinde Flurlingen	vorgeprüft
+K120	Primarschulgemeinde Flurlingen	Anpassung erfolgt
 F092	Vereinitge Schulgemeinde Grüningen	nicht anwendbar
 C081	Sekundarschulgemeinde Hausen am Albis (Hausen, Kappel, Rifferswil)	nicht anwendbar
 F102	Vereinitge Schulgemeinde Hinwil 	nicht anwendbar
 H032	Vereinitge Schulgemeinde Hittnau	nicht anwendbar
-L100	Primarschulgemeinde Hochfelden	vorgeprüft
+L100	Primarschulgemeinde Hochfelden	Anpassung erfolgt
 L110	Primarschulgemeinde Höri	Revision ausstehend
 K140	Primarschulgemeinde Humlikon	Revision ausstehend
 C141	Sekundarschulgemeinde Knonau Maschwanden Mettmenstetten	nicht anwendbar
 K160	Primarschulgemeinde Laufen-Uhwiesen	vorgeprüft
 K180	Primarschulgemeinde Marthalen	Anpassung erfolgt
 K191	Sekundarschulgemeinde Marthalen (Benken, Marthalen, Rheinau, Trüllikon)	nicht anwendbar
-C120	Primarschulgemeinde Maschwanden	vorgeprüft
+C120	Primarschulgemeinde Maschwanden	Anpassung erfolgt
 G081	Sekundarschulgemeinde Nänikon-Greifensee	nicht anwendbar
-M080	Primarschulgemeinde Neerach	vorgeprüft
-M090	Primarschulgemeinde Niederglatt	vorgeprüft
+M080	Primarschulgemeinde Neerach	Anpassung erfolgt
+M090	Primarschulgemeinde Niederglatt	Anpassung erfolgt
 M111	Sekundarschulgemeinde Niederhasli-Niederglatt-Hofstetten	nicht anwendbar
 L160	Primarschulgemeinde Oberembrach	Anpassung erfolgt
 C161	Sekundarschulgemeinde Obfelden-Ottenbach	nicht anwendbar
@@ -51,7 +51,7 @@ B060	Primarschulgemeinde Oetwil a.L. -Geroldswil	Anpassung erfolgt
 C170	Primarschulgemeinde Ottenbach	Anpassung erfolgt
 K210	Primarschulgemeinde Ossingen	Anpassung erfolgt
 K221	Sekundarschulgemeinde Ossingen-Truttikon	nicht anwendbar
-M170	Primarschulgemeinde Regensberg	Revision ausstehend
+M170	Primarschulgemeinde Regensberg	vorgeprüft
 M191	Sekundarschulgemeinde Regensdorf-Buchs-Dällikon	nicht anwendbar
 I251	Sekundarschulgemeinde Rickenbach (Altikon, Ellikon, Rickenbach und Teile Dinhard)	nicht anwendbar
 L192	Vereinitge Schulgemeinde Rorbas- Freienstein-Teufen	nicht anwendbar
@@ -61,7 +61,7 @@ F122	Vereinitge Schulgemeinde Rüti	nicht anwendbar
 G090	Primarschulgemeinde Schwerzenbach	Anpassung erfolgt
 I281	Sekundarschulgemeinde Seuzach (Seuzach, Hettlingen, Dägerlen und Teile Dinhard)	nicht anwendbar
 M251	Sekundarschulgemeinde Stadel (Bachs, Neerach, Stadel, Weiach)	nicht anwendbar
-M240	Primarschulgemeinde Stadel	vorgeprüft
+M240	Primarschulgemeinde Stadel	Anpassung erfolgt
 K260	Primarschulgemeinde Trüllikon	vorgeprüft
 K270	Primarschulgemeinde Truttikon	Anpassung erfolgt
 I290	Primarschulgemeinde Turbenthal	Revision ausstehend
@@ -78,9 +78,9 @@ L202	Vereinitge Schulgemeinde Wallisellen	nicht anwendbar
 M282	Vereinitge Schulgemeinde Wehntal	nicht anwendbar
 M270	Primarschulgemeinde Weiach	vorgeprüft
 B121	Sekundarschulgemeinde Weiningen (Unterengstringen, Weiningen, Geroldswil, Oetwil a. L.)	nicht anwendbar
-C200	Primarschulgemeinde Wettswil am Albis	Revision ausstehend
+C200	Primarschulgemeinde Wettswil am Albis	vorgeprüft
 I332	Vereinitge Schulgemeinde Wiesendangen	nicht anwendbar
 H141	Sekundarschulgemeinde Wila	nicht anwendbar
-H130	Primarschulgemeinde Wila	Revision ausstehend
+H130	Primarschulgemeinde Wila	vorgeprüft
 H150	Primarschulgemeinde Wildberg	Anpassung erfolgt
 L240	Primarschulgemeinde Winkel	Anpassung erfolgt
